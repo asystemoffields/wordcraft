@@ -2761,3 +2761,7 @@
 	Deep	Наситено
 	Lit from Bottom	Осветено отдолу
 	Center Glow	Сияние от центъра
+	Not protected by recovery: {reason}	Не е защитено от възстановяването: {reason}
+	pictures too large to keep ({count})	твърде големи картини за запазване ({count})
+	Save the document to keep everything. The recovery copy keeps the text but not: {names}	Запишете документа, за да запазите всичко. Копието за възстановяване пази текста, но не и: {names}
+	no copy could be written	не можа да се запише копие
